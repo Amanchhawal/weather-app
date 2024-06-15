@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="design_by_n_aman_chhawal">DESIGN BY\nAMAN CHHAWAL</string>
+    <string name="weather_matters_nwe_ve_got_the_details">Weather Matters,\nWe\'ve Got the Details</string>
+    <string name="textview">TextView</string>
+    <string name="_00_00_c">00:00 °C</string>
+    <string name="textvie">TextVie</string>
+    <string name="_00_00">00:00</string>
+    <string name="designed_by_n_aman_chhawal">DESIGNED BY\n AMAN CHHAWAL</string>
+    <string name="today">Today</string>
+    <string name="sunny">SUNNY</string>
+    <string name="max_00_00_c">Max : 00:00°C</string>
+    <string name="min_00_00_c">Min : 00:00°C</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_25_januray_2023">25 januray 2023</string>
+    <string name="todo">TODO</string>
+    <string name="_00">00 %</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_0000_hpa">0000 hPa</string>
+    <string name="sea">Sea</string>
+    <string name="condition">condition</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
